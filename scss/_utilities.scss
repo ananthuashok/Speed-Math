@@ -1,0 +1,25 @@
+// Importing Poppins
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+// Importing Montagu Slap
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz@16..144&display=swap');
+
+// Importing Teko 
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+// Base styles for the page
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// Base styles for the body
+body{
+    color: white;
+    background-color: black;
+    // background-color: #00A9FF;
+    // background-image: linear-gradient(to bottom right , #0100EC,#FB36F4);
+    font-family: 'Teko' , 'Montagu Slab' , Arial ,  sans-serif;
+}
+

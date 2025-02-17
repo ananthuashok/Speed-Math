@@ -1,0 +1,21 @@
+// Styles for the calculation container
+.calculation-container {
+    width: 100%;
+    margin-top: 5rem;
+    // Styles for the button container
+    .button-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 5rem;
+        gap: 5rem;
+        height: 5rem;
+        margin-top: 1rem;
+    }
+
+    // Styles for the numbers container
+    #calculations{
+        display: flex;
+        justify-content: space-evenly ;
+        }
+}
